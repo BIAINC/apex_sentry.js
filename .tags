@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+name	/Users/zach/bia/apex_sentry/package.json	/^  "name": "node43apex.js",$/;"	function	line:2
+description	/Users/zach/bia/apex_sentry/package.json	/^  "description": "λ improves AWS Lambda's UX with promises for node4.3 runtime",$/;"	function	line:3
+version	/Users/zach/bia/apex_sentry/package.json	/^  "version": "0.0.0",$/;"	function	line:4
+keywords	/Users/zach/bia/apex_sentry/package.json	/^  "keywords": ["aws", "lambda", "λ", "apex"],$/;"	function	line:5
+license	/Users/zach/bia/apex_sentry/package.json	/^  "license": "MIT",$/;"	function	line:6
+repository	/Users/zach/bia/apex_sentry/package.json	/^  "repository": "https:\/\/github.com\/ajcrites\/node43-apex"$/;"	function	line:7
+Apex Node.js (For AWS Lambda node 4.3)	/Users/zach/bia/apex_sentry/Readme.md	/^# Apex Node.js (For AWS Lambda node 4.3)$/;"	function	line:2
+Installation	/Users/zach/bia/apex_sentry/Readme.md	/^## Installation$/;"	function	line:19
+Features	/Users/zach/bia/apex_sentry/Readme.md	/^## Features$/;"	function	line:25
+Example	/Users/zach/bia/apex_sentry/Readme.md	/^## Example$/;"	function	line:31
+Contributors	/Users/zach/bia/apex_sentry/Readme.md	/^## Contributors$/;"	function	line:80
+Badges	/Users/zach/bia/apex_sentry/Readme.md	/^## Badges$/;"	function	line:85
