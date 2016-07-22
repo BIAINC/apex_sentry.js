@@ -38,3 +38,7 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# distribution directory
+# Please see the Contributing note in the readme
+# dst
